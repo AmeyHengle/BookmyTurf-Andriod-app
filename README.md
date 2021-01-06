@@ -1,4 +1,4 @@
-# BookmyTurf-Andriod-app
+# BookmyTurf-Android-app
 An android app for connecting football enthusiasts to local turfs
 
 * A first of its kind Android App for connecting football enthusiasts to local turfs. 
