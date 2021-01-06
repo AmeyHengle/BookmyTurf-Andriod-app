@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Book-My-Turf-Android-App
 * A first of its kind Android App for connecting football enthusiasts to local turfs. 
 * The project consists of two apps, one for the users (football enthusiasts) and another one for the turf owners.
@@ -19,7 +18,6 @@ The turf owner app provides the following functionalities:
 * Monitoring turf bookings.
 * Editing booking prices.
 * Real time stasticial analysis and interactive plots of bookings per day/ week/ month/ year.
-=======
+
 # BookmyTurf-Andriod-app
 An android app for connecting football enthusiasts to local turfs
->>>>>>> c374f100ee26271f78704b8b0632aa4701de7ebd
