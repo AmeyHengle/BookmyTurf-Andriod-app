@@ -26,3 +26,15 @@ The turf owner app provides the following functionalities:
 
 **1. Login Page**
 <img src="app-images/Login Page.png" height="480">
+
+**2. Home Screen**
+<img src="app-images/Home Screen.png" height="480">
+
+**3. Browser Page**
+<img src="app-images/Browser Page.png" height="480">
+
+**4. Location Retrieval**
+<img src="app-images/Location Functionality.png" height="480">
+
+**5. Real-time Analysis**
+<img src="app-images/Real time analysis.png" height="480">
