@@ -24,7 +24,7 @@ The turf owner app provides the following functionalities:
 
 ## App Snippets
 
-**1. Login Page**
+###1. Login Page**
 <img src="app-images/Login Page.png" height="480">
 <br>
 
