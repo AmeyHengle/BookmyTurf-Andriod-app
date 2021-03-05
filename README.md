@@ -20,3 +20,9 @@ The turf owner app provides the following functionalities:
 * Monitoring turf bookings.
 * Editing booking prices.
 * Real time stasticial analysis and interactive plots of bookings per day/ week/ month/ year.
+
+
+## App Snippets
+
+**1. Login Page**
+<img src="app-images/Login Page.png" height="480">
